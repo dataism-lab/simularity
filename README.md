@@ -1,4 +1,4 @@
-# 🏎️ Simulatrix
+# 🏎️ SimulARity
 
 https://github.com/dataism-science/DeepRacer/assets/8148517/823f1884-43b5-49e1-a171-34f1eca07c86
 
